@@ -40,12 +40,10 @@ A real-time chat application built using the PERN Stack (PostgreSQL, Express, Re
 5. Setup environment variables (Create a .env file in backend):
 - DATABASE_URL= 
 - JWT_SECRET= 
-- NODE_ENV= 
-- PORT=
 
 # Run the Project
 - Backend: npm run dev
-- Frontend : npm start
+- Frontend : npm run dev
 
 ## 🚀 Future Improvements
 - 👥 Group chat functionality
