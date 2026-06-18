@@ -1,5 +1,7 @@
-import { io } from "socket.io-client";
 
-const socket = io("http://localhost:5000");
+import { io } from "socket.io-client";
+import { apiUrl } from "./services/api";
+
+const socket = io(apiUrl);
 
 export default socket;
