@@ -15,7 +15,7 @@ A real-time chat application built using the PERN Stack (PostgreSQL, Express, Re
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
 - Frontend: React.js, HTML, CSS  
 - Backend: Node.js, Express.js, Socket.IO  
