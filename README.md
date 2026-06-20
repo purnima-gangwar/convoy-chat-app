@@ -1,10 +1,10 @@
-# 💬 Convoy Chat App
+# 💬 Convoy Chat App:
 
 A real-time chat application built using the PERN Stack (PostgreSQL, Express, React, Node.js) with Socket.IO for real-time communication and Prisma ORM.
 
 ---
 
-## ✨ Features
+## ✨ Features:
 
 - 🔐 Authentication (Login / Signup)
 - 💬 Real-time messaging
