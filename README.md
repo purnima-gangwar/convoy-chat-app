@@ -41,11 +41,11 @@ A real-time chat application built using the PERN Stack (PostgreSQL, Express, Re
 - DATABASE_URL= 
 - JWT_SECRET= 
 
-# Run the Project
+# Run the Project :
 - Backend: npm run dev
 - Frontend : npm run dev
 
-## 🚀 Future Improvements
+## 🚀 Future Improvements :
 - 👥 Group chat functionality
 - 📎 File & image sharing
 - ✔️ Message read receipts
