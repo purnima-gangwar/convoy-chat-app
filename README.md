@@ -23,9 +23,6 @@ A real-time chat application built using the PERN Stack (PostgreSQL, Express, Re
 
 ---
 
-![App Screenshot](./Screenshot%20%281510%29.png)
-
-
 ## ⚙️ Setup:
 ### 1. Clone repo : git clone https://github.com/purnima-gangwar/Convoy-ChatApp.git
 
@@ -55,4 +52,5 @@ A real-time chat application built using the PERN Stack (PostgreSQL, Express, Re
 - 🔍 User search feature
 - 📱 Mobile app version (React Native)
 
-## Author: Purnima Gangwar  👩‍💻
+## Author
+Purnima Gangwar  👩‍💻
