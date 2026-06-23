@@ -53,6 +53,6 @@ A real-time chat application built using the PERN Stack (PostgreSQL, Express, Re
 - 📱 Mobile app version (React Native)
 
 ## Author:
-Purnima Gangwar  👩‍💻
+Purnima Gangwar 👩‍💻
 
-# THANK YOU!
+## THANK YOU!
