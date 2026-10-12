@@ -1,4 +1,4 @@
-# 💬 Convoy Chat App:
+# 💬 Convoy Chat App
 
 A real-time chat application built using the PERN Stack (PostgreSQL, Express, React, Node.js) with Socket.IO for real-time communication and Prisma ORM.
 
@@ -43,14 +43,14 @@ A real-time chat application built using the PERN Stack (PostgreSQL, Express, Re
 - Frontend : npm run dev
 
 ## 🚀 Future Improvements :
-- 👥 Group chat functionality
-- 📎 File & image sharing
-- ✔️ Message read receipts
-- 🔔 Push notifications
-- 😄 Emoji & reactions support
-- 🌙 Dark mode UI
-- 🔍 User search feature
-- 📱 Mobile app version (React Native)
+-  Group chat functionality
+-  File & image sharing
+-  Message read receipts
+-  Push notifications
+-  Emoji & reactions support
+-  Dark mode UI
+-  User search feature
+-  Mobile app version (React Native)
 
 ## Author:
 Purnima Gangwar 👩‍💻
