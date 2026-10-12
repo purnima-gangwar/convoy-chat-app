@@ -6,12 +6,12 @@ A real-time chat application built using the PERN Stack (PostgreSQL, Express, Re
 
 ## ✨ Features:
 
-- 🔐 Authentication (Login / Signup)
-- 💬 Real-time messaging
-- 👥 One-to-one chat
-- 🟢 Online/Offline status
-- ⚡ Instant message delivery
-- 📱 Responsive UI
+-  Authentication (Login / Signup)
+-  Real-time messaging
+-  One-to-one chat
+-  Online/Offline status
+-  Instant message delivery
+-  Responsive UI
 
 ---
 
